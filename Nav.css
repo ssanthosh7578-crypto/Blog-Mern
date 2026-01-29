@@ -1,0 +1,33 @@
+.container{
+    padding: 10px;
+    margin: 0;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.navbar h1{
+    cursor: pointer;
+    height: 30px;
+}
+.navbar button{
+    width: 60px;
+    height: 35px;
+    cursor: pointer;
+
+}
+.navbar{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* add this */
+}
+.navbar button:hover{
+    background-color: black;
+    color: white;
+}
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}

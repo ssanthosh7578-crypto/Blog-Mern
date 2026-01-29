@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    padding: 10px;   /* fixed */
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+.containerr{
+    width: 80%;
+}
+.image{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin: 16px;
+    padding: 10px;
+}
+.post{
+    margin-left: 25%;
+}
+.text{
+
+  
+    width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
